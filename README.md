@@ -11,10 +11,10 @@ This code makes use of object oriented programming principles to read text files
 ### Dependencies
 
 * JDK 19 or later
+* IntelliJ 2022 or later
 
 ### Installing
 
-* It is recommended to run the application in IntelliJ 2022 or later
 * All text files should be located on the same level as the src, out, and .idea folders
 * ceasar-key contains a number which is the amount to shift the alphabet by
 * keyed-ceasar-key contains a number to shift the alphabet by and the key word to encrypt with
