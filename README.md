@@ -4,7 +4,7 @@ An object oriented piece of Java code to break three different cyphers
 
 ## Description
 
-This code makes use of mathematics, maths plotting, functions, and file reading amongst other things to analyse and compare short snippets of the human genome using Kmer frequency and cosine difference. Results are then displayed as histograms to better visualise differences. 
+This code makes use of object oriented programming principles to read text files, perform string manipulation according to provided parameters, and produce a saveable string outcome.
 
 ## Getting Started
 
